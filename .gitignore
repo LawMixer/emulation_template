@@ -1,0 +1,14 @@
+settings.py
+**/__pycache__
+__pycache__/
+*.pyc
+__pypackages__/
+resources/secrets/
+.editorconfig
+*.dockerignore
+
+**/__pycache__
+**/.dockerignore
+**/.vscode
+**/docker-compose*
+compose.yaml
